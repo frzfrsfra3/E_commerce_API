@@ -17,7 +17,7 @@ Follow these steps to set up and run the project locally:
 1.	Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/e-commerce-api.git
+git clone https://github.com/frzfrsfra3/E_commerce_API
 cd e-commerce-api
 2.	Install Dependencies:
 bash
@@ -150,5 +150,5 @@ o	Recommendation: Standardize error responses.
 o	Issue: Missing unit tests for key functionalities.
 o	Recommendation: Add unit tests to cover authentication and order management.
 API Documentation
-The API documentation is available in OpenAPI format. It describes all available endpoints, request/response formats, and authentication details. You can find it in the docs folder under openapi.yaml.
+The API documentation is available in OpenAPI format. It describes all available endpoints, request/response formats, and authentication details. You can find it in openapi.yaml.
 
