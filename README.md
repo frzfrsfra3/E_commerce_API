@@ -33,7 +33,7 @@ Copy code
 
 ```bash
 git clone https://github.com/frzfrsfra3/E_commerce_API
-cd e-commerce-api
+cd E_commerce_API
 ```
 #### 2.	Install Dependencies:
 
