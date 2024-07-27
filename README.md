@@ -225,8 +225,11 @@ o	Response: 201 Created with order details.
 
 I attached Report  Code Report.docx File 
 
-## Recommendation:
- Add unit tests to cover authentication and order management.
+## TEST:
+ use the command to test the user,product and order
+ ```bash
+ php artisan test
+ ```
 
 ## API Documentation
 I attached  openapi.yaml File.
