@@ -8,7 +8,8 @@ This README.md provides an overview of the API, database setup, code review, and
   ####  3.	Database Setup
   ####  4.	API Endpoints
   ####  5.	Code Review Report
-  ####  6.	API Documentation
+  ####  6.	Test
+  ####  7.	API Documentation
 # Project Overview
 The e-commerce API includes the following features:
 
@@ -225,7 +226,7 @@ o	Response: 201 Created with order details.
 
 I attached Report  Code Report.docx File 
 
-## TEST:
+## TEST
  use the command to test the user,product and order
  ```bash
  php artisan test
