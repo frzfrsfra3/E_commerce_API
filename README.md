@@ -15,7 +15,8 @@ The e-commerce API includes the following features:
 Installation and Setup
 Follow these steps to set up and run the project locally:
 1.	Clone the Repository:
-bash
+
+## Usage
 Copy code
 git clone https://github.com/frzfrsfra3/E_commerce_API
 cd e-commerce-api
